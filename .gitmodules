@@ -1,0 +1,3 @@
+[submodule "quickstart/themes/pico"]
+	path = quickstart/themes/pico
+	url = https://github.com/negrel/hugo-theme-pico.git

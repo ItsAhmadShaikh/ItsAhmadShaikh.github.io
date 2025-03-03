@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Ahmad Shaikh</title>
-    <link href="https://itsahmadshaikh.github.io/ItsAhmadShaikh.github.io/feed.xml" rel="self" />
-    <link href="https://itsahmadshaikh.github.io/ItsAhmadShaikh.github.io" />
+    <link href="https://itsahmadshaikh.github.io/feed.xml" rel="self" />
+    <link href="https://itsahmadshaikh.github.io" />
     <updated>2025-03-03T10:23:22-08:00</updated>
     <author>
         <name>Ahmad Rehan Shaikh</name>
     </author>
-    <id>https://itsahmadshaikh.github.io/ItsAhmadShaikh.github.io</id>
+    <id>https://itsahmadshaikh.github.io</id>
 
     <entry>
         <title>test</title>
         <author>
             <name>Ahmad Rehan Shaikh</name>
         </author>
-        <link href="https://itsahmadshaikh.github.io/ItsAhmadShaikh.github.io/test.html"/>
-        <id>https://itsahmadshaikh.github.io/ItsAhmadShaikh.github.io/test.html</id>
+        <link href="https://itsahmadshaikh.github.io/test.html"/>
+        <id>https://itsahmadshaikh.github.io/test.html</id>
 
         <updated>2025-03-03T10:23:22-08:00</updated>
             <summary>

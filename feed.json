@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ahmad Shaikh",
+    "description": "",
+    "home_page_url": "https://itsahmadshaikh.github.io/ItsAhmadShaikh.github.io",
+    "feed_url": "https://itsahmadshaikh.github.io/ItsAhmadShaikh.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ahmad Rehan Shaikh"
+    },
+    "items": [
+        {
+            "id": "https://itsahmadshaikh.github.io/ItsAhmadShaikh.github.io/test.html",
+            "url": "https://itsahmadshaikh.github.io/ItsAhmadShaikh.github.io/test.html",
+            "title": "test",
+            "summary": "testing",
+            "content_html": "<p>testing</p>",
+            "author": {
+                "name": "Ahmad Rehan Shaikh"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-03T10:23:22-08:00",
+            "date_modified": "2025-03-03T10:23:22-08:00"
+        }
+    ]
+}

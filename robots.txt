@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://itsahmadshaikh.github.io/ItsAhmadShaikh.github.io/sitemap.xml
